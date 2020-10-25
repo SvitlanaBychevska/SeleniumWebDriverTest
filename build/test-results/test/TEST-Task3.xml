@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task3" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-25T19:20:10" hostname="EPUAKYIW1065" time="32.801">
+  <properties/>
+  <testcase name="openBrowser" classname="Task3" time="32.801"/>
+  <system-out><![CDATA[SetUp method
+31
+i = 1 --> 18:03 Кикшеринг в каждый двор: в Киеве появился новый прокат электросамокатов с антисептиком  94
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[1]
+i = 2 --> 18:00 «Укрзализныця» возобновила продажу билетов почти на все ж/д станции  92
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[2]
+i = 3 --> 17:04 Художница обрела миллионы поклонников после того, как она осовременила принцесс Disney   111
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[3]
+i = 4 --> 16:02 В Киеве в ботаническом саду на Хэллоуин проведут карнавал костюмов и конкурс тыкв  98
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[4]
+i = 5 --> 14:50 Робособака Boston Dynamics измерила радиацию в чернобыльской зоне отчуждения  104
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[5]
+i = 6 --> 13:49 Тотальная экономия: каждый третий житель Великобритании стирает простыни только раз в год 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[6]
+i = 7 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[7]
+i = 8 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[8]
+i = 9 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[9]
+i = 10 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[10]
+i = 11 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[11]
+i = 12 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[12]
+i = 13 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[13]
+i = 14 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[14]
+i = 15 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[15]
+i = 16 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[16]
+i = 17 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[17]
+i = 18 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[18]
+i = 19 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[19]
+i = 20 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[20]
+i = 21 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[21]
+i = 22 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[22]
+i = 23 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[23]
+i = 24 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[24]
+i = 25 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[25]
+i = 26 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[26]
+i = 27 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[27]
+i = 28 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[28]
+i = 29 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[29]
+i = 30 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[30]
+i = 31 --> 
+//*[@id="content"]/div/div[3]/div/div/div[1]/div/div/div[2]/ul/li[31]
+Close Browser method
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 41118
+Only local connections are allowed.
+Oct 25, 2020 9:20:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
